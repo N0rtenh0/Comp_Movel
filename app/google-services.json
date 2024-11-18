@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "500333646191",
+    "project_id": "tumapp-2021",
+    "storage_bucket": "tumapp-2021.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500333646191:android:b2f12557dee8beb50d189a",
+        "android_client_info": {
+          "package_name": "pt.umaia.tumapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPMDapQzO7GqF3E07SA8igSwLeDPEbNSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

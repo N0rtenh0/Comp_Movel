@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TUMAPP</string>
+    <string name="ecra01">Login</string>
+    <string name="ecra02">Registar</string>
+    <string name="ecra03">Atuações</string>
+    <string name="ecra04">Criar Atuação</string>
+    <string name="ecra05">Editar</string>
+</resources>
